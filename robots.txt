@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://simplexec.github.io/sitemap
+Sitemap: https://simplexec.github.io/app/sitemap
+Sitemap: https://simplexec.github.io/assets/sitemap
+Sitemap: https://simplexec.github.io/css/sitemap
+Sitemap: https://simplexec.github.io/includes/sitemap
+Sitemap: https://simplexec.github.io/item/sitemap
+Sitemap: https://simplexec.github.io/src/sitemap
